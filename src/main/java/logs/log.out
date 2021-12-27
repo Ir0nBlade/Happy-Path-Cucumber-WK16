@@ -1,0 +1,21 @@
+2021-12-27 11:12:402 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-27 11:12:211 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-27 12:12:800 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-27 12:12:877 INFO  HomePage :23 - Clicking on start button [[ChromeDriver: chrome on WINDOWS (d7d32d98c4a56a1e4d54132bbd648aa5)] -> css selector: #jfCard-welcome-start]
+2021-12-27 12:12:933 INFO  PersonalDetailsPage :31 - Entering first name [[ChromeDriver: chrome on WINDOWS (d7d32d98c4a56a1e4d54132bbd648aa5)] -> id: first_2]
+2021-12-27 12:12:978 INFO  PersonalDetailsPage :33 - Entering last name [[ChromeDriver: chrome on WINDOWS (d7d32d98c4a56a1e4d54132bbd648aa5)] -> id: last_2]
+2021-12-27 12:12:53 INFO  PersonalDetailsPage :36 - clicking on next button [[ChromeDriver: chrome on WINDOWS (d7d32d98c4a56a1e4d54132bbd648aa5)] -> xpath: (//button[contains(@class,'jfInput-button forNext')])[1]]
+2021-12-27 12:12:130 INFO  UploadFilePage :36 - Clicking on Brwose File button [[ChromeDriver: chrome on WINDOWS (d7d32d98c4a56a1e4d54132bbd648aa5)] -> xpath: //label[contains(text(),'Browse Files')]]
+2021-12-27 12:12:300 INFO  UploadFilePage :61 - Clicking on next button [[ChromeDriver: chrome on WINDOWS (d7d32d98c4a56a1e4d54132bbd648aa5)] -> xpath: (//button[contains(@class,'jfInput-button forNext')])[2]]
+2021-12-27 12:12:390 INFO  SignaturePage :32 - Clicking into canvas to draw signature [[ChromeDriver: chrome on WINDOWS (d7d32d98c4a56a1e4d54132bbd648aa5)] -> tag name: canvas]
+2021-12-27 12:12:804 INFO  SignaturePage :48 - Clicking on next button [[ChromeDriver: chrome on WINDOWS (d7d32d98c4a56a1e4d54132bbd648aa5)] -> xpath: (//button[contains(@class,'jfInput-button forNext')])[3]]
+2021-12-27 12:12:860 INFO  CalanderPage :40 - Clicking on Calander Icon [[ChromeDriver: chrome on WINDOWS (d7d32d98c4a56a1e4d54132bbd648aa5)] -> xpath: //span[@aria-label='Calendar icon']//*[name()='svg']]
+2021-12-27 12:12:904 INFO  CalanderPage :43 - Selecting Date [[ChromeDriver: chrome on WINDOWS (d7d32d98c4a56a1e4d54132bbd648aa5)] -> xpath: //td[normalize-space()='31']]
+2021-12-27 12:12:465 INFO  CalanderPage :46 - Clicking on next button [[ChromeDriver: chrome on WINDOWS (d7d32d98c4a56a1e4d54132bbd648aa5)] -> css selector: div[data-type='control_datetime'] button[aria-label='Next']]
+2021-12-27 12:12:516 INFO  SecurityQuestions :35 - Clicking on dropdown [[ChromeDriver: chrome on WINDOWS (d7d32d98c4a56a1e4d54132bbd648aa5)] -> xpath: //div[@class='jfDropdown-chipContainer']]
+2021-12-27 12:12:565 INFO  SecurityQuestions :38 - Selecting Favourite school [[ChromeDriver: chrome on WINDOWS (d7d32d98c4a56a1e4d54132bbd648aa5)] -> xpath: //li[contains(text(),'Favourite School')]]
+2021-12-27 12:12:709 INFO  SecurityQuestions :40 - Entering answer for Security question [[ChromeDriver: chrome on WINDOWS (d7d32d98c4a56a1e4d54132bbd648aa5)] -> id: input_6_field_2]
+2021-12-27 12:12:779 INFO  SecurityQuestions :44 - Clicking on next button [[ChromeDriver: chrome on WINDOWS (d7d32d98c4a56a1e4d54132bbd648aa5)] -> xpath: //div[@data-type='control_mixed']//button[@aria-label='Next'][normalize-space()='Next']]
+2021-12-27 12:12:833 INFO  UploadImagePage :24 - Clicking on Submit button [[ChromeDriver: chrome on WINDOWS (d7d32d98c4a56a1e4d54132bbd648aa5)] -> xpath: //button[@class='jfInput-button forSubmit form-submit-button u-right']]
+2021-12-27 12:12:702 INFO  SubmissionPage :27 - Verifying 'Thank You!' message [[ChromeDriver: chrome on WINDOWS (d7d32d98c4a56a1e4d54132bbd648aa5)] -> xpath: //h1[contains(text(),'Thank You!')]]
+2021-12-27 12:12:730 INFO  SubmissionPage :29 - Verifying form submission message [[ChromeDriver: chrome on WINDOWS (d7d32d98c4a56a1e4d54132bbd648aa5)] -> xpath: //div[contains(text(),'Your submission has been received!')]]
